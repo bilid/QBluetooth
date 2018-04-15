@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>../STM32_Config/psblack.qss</file>
+        <file>../STM32_Config/sblack.qss</file>
+    </qresource>
+</RCC>
